@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 
 group_name = "COPIUM LAN"  # enter group name
-refresh_time_in_min = 10  # enter in minutes
+refresh_time_in_min = 1 # enter in minutes
 
 refresh_time = refresh_time_in_min * 60
 
@@ -74,6 +74,6 @@ while True:
     else:
         t = time.localtime()
         current_time = time.strftime("%H:%M:%S", t)
-        print(f"{current_time} : Link is same. Not opened")
+        print(f"{current_time} : Link is same. Not opened or The message is not a link")
 
     time.sleep(refresh_time)
