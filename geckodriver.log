@@ -1,0 +1,876 @@
+1684034202550	geckodriver	INFO	Listening on 127.0.0.1:55917
+1684034205618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileOnUuow"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684034205865	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684034205870	Marionette	INFO	Listening on port 55928
+Read port: 55928
+WebDriver BiDi listening on ws://127.0.0.1:55918
+1684034206009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileOnUuow\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55918/devtools/browser/b642f776-ef70-4ebb-8d35-6a4d82f13092
+1684034224084	Marionette	INFO	Stopped listening on port 55928
+Dynamically enable window occlusion 1
+1684034226622	geckodriver	INFO	Listening on 127.0.0.1:55962
+1684034229681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileNsyo7E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684034229908	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684034229912	Marionette	INFO	Listening on port 55970
+WebDriver BiDi listening on ws://127.0.0.1:55963
+Read port: 55970
+1684034230115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileNsyo7E\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55963/devtools/browser/6edf7958-773f-4ca5-80ee-4f2cba5bd6f2
+1684034235503	Marionette	INFO	Stopped listening on port 55970
+Dynamically enable window occlusion 1
+1684046575414	geckodriver	INFO	Listening on 127.0.0.1:57968
+1684046578500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofilexh5kKi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684046578753	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684046578757	Marionette	INFO	Listening on port 57976
+Read port: 57976
+WebDriver BiDi listening on ws://127.0.0.1:57969
+1684046578885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofilexh5kKi\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:57969/devtools/browser/55219a7d-b02b-44d0-80f0-1e523af97fec
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1684046636585	Marionette	INFO	Stopped listening on port 57976
+Dynamically enable window occlusion 1
+1684046949014	geckodriver	INFO	Listening on 127.0.0.1:58035
+1684046952058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileZub5vE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684046952295	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684046952300	Marionette	INFO	Listening on port 58043
+Read port: 58043
+WebDriver BiDi listening on ws://127.0.0.1:58036
+1684046952455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileZub5vE\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58036/devtools/browser/98b3d4ea-5dc4-4153-8d62-4899af8c1e43
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1684046981640	Marionette	INFO	Stopped listening on port 58043
+Dynamically enable window occlusion 1
+1684046987232	geckodriver	INFO	Listening on 127.0.0.1:58082
+1684046990284	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile1UVNLj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684046990521	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684046990525	Marionette	INFO	Listening on port 58091
+Read port: 58091
+WebDriver BiDi listening on ws://127.0.0.1:58083
+1684046990654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile1UVNLj\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58083/devtools/browser/fe33a413-91fc-49b5-b9b6-ab28a9d048d3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1684047038125	Marionette	INFO	Stopped listening on port 58091
+Dynamically enable window occlusion 1
+1684047051792	geckodriver	INFO	Listening on 127.0.0.1:58145
+1684047054866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58146" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileZxG6tE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684047055098	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684047055102	Marionette	INFO	Listening on port 58153
+WebDriver BiDi listening on ws://127.0.0.1:58146
+Read port: 58153
+1684047055299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileZxG6tE\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58146/devtools/browser/0ad11826-17f5-4e85-90a8-fa9b9d0cde29
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1684047224665	Marionette	INFO	Stopped listening on port 58153
+Dynamically enable window occlusion 1
+[Parent 12876, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+\\AppData\\Local\\Temp\\rust_mozprofileiygNrE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684047118483	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684047118487	Marionette	INFO	Listening on port 58210
+Read port: 58210
+WebDriver BiDi listening on ws://127.0.0.1:58200
+1684047118622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileiygNrE\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58200/devtools/browser/8d749c94-7023-45e4-87a5-97d4127291da
+1684047124055	Marionette	INFO	Stopped listening on port 58210
+Dynamically enable window occlusion 1
+[Parent 19696, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1684047172837	geckodriver	INFO	Listening on 127.0.0.1:58243
+1684047175903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile1YXOAD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684047176135	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684047176139	Marionette	INFO	Listening on port 58255
+Read port: 58255
+WebDriver BiDi listening on ws://127.0.0.1:58244
+1684047176281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile1YXOAD\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58244/devtools/browser/10dbeb09-e4f5-4953-b43b-a8eb601122d7
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1684047223604	Marionette	INFO	Stopped listening on port 58255
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileqQzcNK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684047214260	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684047214263	Marionette	INFO	Listening on port 58309
+Read port: 58309
+WebDriver BiDi listening on ws://127.0.0.1:58302
+1684047214404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileqQzcNK\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58302/devtools/browser/0059a843-fc7a-4660-9265-67058e27e1af
+1684047240323	geckodriver	INFO	Listening on 127.0.0.1:58348
+1684047243388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileFEA6R0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684047243621	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684047243624	Marionette	INFO	Listening on port 58356
+WebDriver BiDi listening on ws://127.0.0.1:58349
+Read port: 58356
+1684047243826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileFEA6R0\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58349/devtools/browser/7faa6539-c05c-440a-8efa-b8eccdad60cf
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1684047291209	Marionette	INFO	Stopped listening on port 58356
+Dynamically enable window occlusion 1
+1684047326115	geckodriver	INFO	Listening on 127.0.0.1:58399
+1684047329180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile7X5WOM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684047329412	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684047329415	Marionette	INFO	Listening on port 58407
+WebDriver BiDi listening on ws://127.0.0.1:58400
+Read port: 58407
+1684047329617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile7X5WOM\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58400/devtools/browser/28a5f35b-3798-41f0-baf3-bbb463450f62
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1684047427580	Marionette	INFO	Stopped listening on port 58407
+Dynamically enable window occlusion 1
+1684047432497	geckodriver	INFO	Listening on 127.0.0.1:58463
+1684047435574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileaY7Hnm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684047435800	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684047435804	Marionette	INFO	Listening on port 58471
+WebDriver BiDi listening on ws://127.0.0.1:58464
+Read port: 58471
+1684047436001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileaY7Hnm\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58464/devtools/browser/ba592904-c4f3-4b20-b6fd-e6381283b382
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1684047532625	Marionette	INFO	Stopped listening on port 58471
+Dynamically enable window occlusion 1
+1684047549420	geckodriver	INFO	Listening on 127.0.0.1:58535
+1684047552505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58536" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile6M01SF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684047552732	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684047552736	Marionette	INFO	Listening on port 58543
+WebDriver BiDi listening on ws://127.0.0.1:58536
+Read port: 58543
+1684047552936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile6M01SF\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58536/devtools/browser/32822c58-94d3-4c8b-b8fb-a2a726dbde59
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1684047582622	Marionette	INFO	Stopped listening on port 58543
+Dynamically enable window occlusion 1
+1684047587119	geckodriver	INFO	Listening on 127.0.0.1:58591
+1684047590170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofiletFIrAN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684047590398	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684047590402	Marionette	INFO	Listening on port 58599
+WebDriver BiDi listening on ws://127.0.0.1:58592
+Read port: 58599
+1684047590602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofiletFIrAN\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58592/devtools/browser/d1daaf57-ec44-4ded-a736-3d80d613233e
+1684047610702	Marionette	INFO	Stopped listening on port 58599
+Dynamically enable window occlusion 1
+[Parent 23560, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1684047722045	geckodriver	INFO	Listening on 127.0.0.1:58655
+1684047725113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile8ItcVe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684047725336	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684047725339	Marionette	INFO	Listening on port 58663
+WebDriver BiDi listening on ws://127.0.0.1:58656
+Read port: 58663
+1684047725540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile8ItcVe\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58656/devtools/browser/ea4e4335-0bd1-48f1-b8bd-46457fa6f2b5
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 2: uncaught exception: Object
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1684047925491	Marionette	INFO	Stopped listening on port 58663
+Dynamically enable window occlusion 1
+1684047960788	geckodriver	INFO	Listening on 127.0.0.1:58750
+1684047963862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile8xWLUw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684047964087	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684047964090	Marionette	INFO	Listening on port 58758
+WebDriver BiDi listening on ws://127.0.0.1:58751
+Read port: 58758
+1684047964286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofile8xWLUw\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58751/devtools/browser/db8a75c4-2cef-4231-8a8a-7ab74183a323
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/vendor1~app.a91035d81a749b3d5627.js, line 14: Invariant Violation: [model-storage] Storage should be created first before being accessed
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1684048646882	Marionette	INFO	Stopped listening on port 58758
+Dynamically enable window occlusion 1
+t
+1684048426969	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684048426972	Marionette	INFO	Listening on port 58890
+WebDriver BiDi listening on ws://127.0.0.1:58882
+Read port: 58890
+1684048427170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofilekgoWbB\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58882/devtools/browser/5a82aa9a-5397-4999-bd88-0a234ef7a5f0
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1684048505728	Marionette	INFO	Stopped listening on port 58890
+Dynamically enable window occlusion 1
+1684048508859	geckodriver	INFO	Listening on 127.0.0.1:58944
+1684048511903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofilegP9NuU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684048512131	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684048512134	Marionette	INFO	Listening on port 58952
+WebDriver BiDi listening on ws://127.0.0.1:58945
+Read port: 58952
+1684048512277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofilegP9NuU\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:58945/devtools/browser/74c2f3f4-c711-4b3b-8ba1-64872f1616c9
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 523))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 932))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450946/pagestyle20 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450946/pagestyle20 (resource://devtools/server/actors/page-style.js:523:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450946/pagestyle20 (resource://devtools/server/actors/page-style.js:932:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 932))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal6442450946/pagestyle20 (resource://devtools/server/actors/page-style.js:932:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2397))
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "stylesheets: fetch failed for https://web.whatsapp.com/app-a2c2cd1b2aea3ab61005.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://web.whatsapp.com/app-a2c2cd1b2aea3ab61005.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://web.whatsapp.com/app-a2c2cd1b2aea3ab61005.css, using system principal instead."
+1684048643356	Marionette	INFO	Stopped listening on port 58952
+Dynamically enable window occlusion 1
+1684048651177	geckodriver	INFO	Listening on 127.0.0.1:59011
+1684048654229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofilesugHTo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1684048654463	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1684048654467	Marionette	INFO	Listening on port 59020
+WebDriver BiDi listening on ws://127.0.0.1:59012
+Read port: 59020
+1684048654667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofilesugHTo\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:59012/devtools/browser/d70ecc00-d5ec-47df-ae43-3dadd34e6cc2
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1684048712574	Marionette	INFO	Stopped listening on port 59020
+Dynamically enable window occlusion 1

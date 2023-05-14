@@ -1,29 +1,30 @@
-from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
 import time
 
-# Replace below path with the absolute path
-# to chromedriver in your computer
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as ec
+
+group_name = "MREC III CSE C 2020"
+
 driver = webdriver.Chrome()
-
 driver.get("https://web.whatsapp.com/")
-wait = WebDriverWait(driver, 6000000)
+driver.implicitly_wait(5)
 
-# Replace 'Friend's Name' with the name of your friend
-# or the name of a group
-target = 'Vamshi MREC'
+WebDriverWait(driver, 60).until(
+    ec.presence_of_element_located(
+        (By.CLASS_NAME, '_3sHED')
+    )
+)
 
-# Replace the below string with your own message
-string = "Message sent using Python!!!"
+time.sleep(2)
+input_box_search = driver.find_element(By.CLASS_NAME, 'to2l77zo')
+input_box_search.click()
+time.sleep(2)
+input_box_search.send_keys(group_name)
+time.sleep(2)
 
-x_arg = '//span[contains(@title,' + target + ')]'
-group_title = wait.until(EC.presence_of_element_located((By.XPATH, x_arg)))
-group_title.click()
-inp_xpath = '//div[@class="_13NKt copyable-text selectable-text"][@data-tab="9"]'
-input_box = wait.until(EC.presence_of_element_located((By.XPATH, inp_xpath)))
-for i in range(100):
-    input_box.send_keys(string + Keys.ENTER)
-    time.sleep(1)
+contact_element = driver.find_element(By.CLASS_NAME, "_8nE1Y")
+contact_element.click()
+
+input()
