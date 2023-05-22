@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 
-group_name = "COPIUM LAN"  # enter group name
+group_name = "MREC III CSE C 2020"  # enter group name
 refresh_time_in_min = 1 # enter in minutes
 
 refresh_time = refresh_time_in_min * 60
