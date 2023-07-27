@@ -874,3 +874,16 @@ JavaScript error: , line 0: uncaught exception: Object
 JavaScript error: , line 0: uncaught exception: Object
 1684048712574	Marionette	INFO	Stopped listening on port 59020
 Dynamically enable window occlusion 1
+1689995027972	geckodriver	INFO	Listening on 127.0.0.1:53052
+1689995031054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\katra\\AppData\\Local\\Temp\\rust_mozprofileLYxIrD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1689995031418	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1689995031523	Marionette	INFO	Listening on port 53062
+WebDriver BiDi listening on ws://127.0.0.1:53053
+Read port: 53062
+1689995031730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53053/devtools/browser/5fa0002c-a887-4b87-9c9f-4d2582eeb956
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 43: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 43: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3

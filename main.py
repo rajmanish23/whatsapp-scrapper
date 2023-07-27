@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
 
 group_name = "MREC III CSE C 2020"  # enter group name
-refresh_time_in_min = 1 # enter in minutes
+refresh_time_in_min = 1  # enter in minutes
 
 refresh_time = refresh_time_in_min * 60
 
@@ -17,7 +17,7 @@ GROUP_CLASS = "_8nE1Y"
 LAUNCH_MEETING_BTN_CLASS = "mbTuDeF1"
 MESSAGE_CLASS = "_11JPr"
 
-driver = webdriver.Chrome()
+driver = webdriver.Firefox()
 driver.get("https://web.whatsapp.com/")
 driver.implicitly_wait(5)
 
